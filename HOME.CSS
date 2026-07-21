@@ -1,0 +1,18 @@
+#top-bar{
+    text-align: center;
+    display: flex;
+    align-content: space-around ;
+    align-content: center;
+    text-align: center;
+    flex-direction: row;
+
+}
+#top-bar-elements{
+    border: solid 2px black;
+    background-color: red;
+    display:flex;
+    align-content: space-around;
+    align-items: center;
+    padding: auto;
+
+}
